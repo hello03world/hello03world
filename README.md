@@ -2,7 +2,7 @@
 
 # Hello World
 
-### Versatile Programmer — Full-Stack & DevOps
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=760&lines=Versatile+Programmer;Full-Stack+%2B+DevOps;Build+it.+Ship+it.+Keep+it+alive.;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+C%2B%2B)](https://github.com/hello03world)
 
 Backend • Frontend • Deployment • Servers
 
@@ -119,6 +119,18 @@ mindset:     "If I wrote it, I can deploy it, scale it, and keep it alive."
 <img src="https://github-profile-trophy.vercel.app/?username=hello03world&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hello03world&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hello03world/hello03world/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hello03world/hello03world/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hello03world/hello03world/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
