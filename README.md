@@ -12,8 +12,6 @@ Backend • Frontend • Deployment • Servers
 
 </div>
 
----
-
 ## About Me
 
 Versatile full-stack programmer who builds, ships, **and** runs what I build. Core strength in Python, Django, and React, with the ability to drop into C++ when performance matters — and the DevOps chops to take an app from `localhost` to a production server that stays up.
@@ -39,7 +37,15 @@ mindset:     "If I wrote it, I can deploy it, scale it, and keep it alive."
 
 🔹 **Systems / Performance** — C++ for the performance-critical paths where it counts.
 
----
+## Current Focus
+
+```text
+🎯 Day job        Backend systems & APIs — Python / Django
+🛠️ Side projects   Deployment automation & CI/CD pipelines
+🌱 Learning        Kubernetes, scaling & observability
+💬 Ask me about    Django, REST APIs, Docker, shipping to production
+⚡ Fun fact        I don't just write code — I deploy it and keep it alive
+```
 
 ## Tech Stack
 
@@ -89,23 +95,40 @@ mindset:     "If I wrote it, I can deploy it, scale it, and keep it alive."
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000)
 
----
-
 ## GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hello03world&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">
 
-![Streak](https://streak-stats.demolab.com?user=hello03world&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=hello03world&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" alt="GitHub Stats" height="170"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello03world&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
+</td>
+<td valign="top">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hello03world&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello03world&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&cache_seconds=1800" alt="Top Languages" height="170"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=hello03world&theme=black-ice&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hello03world&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hello03world&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
----
+## Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+
+</div>
 
 ## Connect
 
@@ -115,3 +138,5 @@ mindset:     "If I wrote it, I can deploy it, scale it, and keep it alive."
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:saim07abrish@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Build%20it.%20Ship%20it.%20Keep%20it%20alive.&fontColor=ffffff&fontSize=18&fontAlignY=75" width="100%" alt="footer"/>
